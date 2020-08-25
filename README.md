@@ -7,7 +7,7 @@
 </br>
 <i> :iphone: 
  Aplicativo desenvolvido com React Native com o tema de Hamburgueria , o usuario poderá solicitar o pedido por Whatsapp
-e visualizar de forma simples o cardapio, endereço e horario de atendimento do estabelecimento. </i>
+e visualizar de forma simples o cardapio, localizaçāo e horario de atendimento do estabelecimento. </i>
 
 
 </br>
